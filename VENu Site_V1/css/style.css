@@ -1,0 +1,46 @@
+html,body{
+    height: 100vh;
+}
+.home{
+    background: url('../img/VENuBackground-1@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.home2{
+    background: url('../img/VENuBackground-2@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.navbar{
+    background: transparent !important;
+    padding-left: 20px;
+}
+.text-left{
+    padding-left: 150px; 
+    padding-right: 550px; 
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.text-right{
+    padding-left: 850px; 
+    padding-right: 150px; 
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.header{
+    padding-left: 150px; 
+    padding-right: 550px; 
+    padding-top: 250px;
+    font-size: 35px;
+    font-family: 'Abril Fatface', cursive;
+}
+.header2{
+    padding-left: 850px; 
+    padding-right: 150px; 
+    font-size: 35px;
+    font-family: 'Abril Fatface', cursive;
+}
