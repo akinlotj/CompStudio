@@ -1,0 +1,75 @@
+html,body{
+    height: 100vh;
+    background-color: #f7f7f7;
+}
+.btn{
+    color: #e3e3e3 !important;
+}
+.home{
+    background: url('../img/VENuBackground-1@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-bottom: 0px;
+    display: block;
+}
+.home2{
+    background: url('../img/VENuBackground-2@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-bottom: 0px;
+}
+.navbar{
+    background: transparent !important;
+    padding-left: 20px;
+}
+.text-left{
+    padding-left: 150px; 
+    padding-right: 500px; 
+    font-size: 1.5vw;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.text-right{
+    padding-left: 550px; 
+    padding-right: 150px; 
+    font-size: 1.5vw;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.middle-text{
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-top: 3%;
+    font-size: 1.5vw;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.header{
+    padding-left: 150px; 
+    padding-right: 550px; 
+    padding-top: 250px;
+    font-size: 3vw;
+    font-family: 'Abril Fatface', cursive;
+}
+.header2{
+    padding-left: 550px; 
+    padding-right: 150px; 
+    padding-top: 250px;
+    font-size: 3vw;
+    font-family: 'Abril Fatface', cursive;
+}
+.header3{
+    padding: 30px;
+    font-size: 3vw;
+    position: relative;
+    font-family: 'Abril Fatface', cursive;
+}
+.home3{
+    background: url('../img/VENuBackground-3@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-bottom: 0px;
+}
