@@ -1,0 +1,90 @@
+html,body{
+    height: 100vh;
+    background-color: #f7f7f7;
+}
+.btn{
+    padding: 30px;
+    text-decoration: none;
+    color: #363636;
+    font-size: 1.5vw;
+    font-family: 'Abril Fatface', cursive;
+}
+.card-body{
+    font-size: 1.5vw;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left: 60px;
+    padding-right: 60px;
+    border: none;
+}
+.home{
+    background: url('../img/VENuBackground-1@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-bottom: 0px;
+    display: block;
+}
+.home2{
+    background: url('../img/VENuBackground-2@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-bottom: 0px;
+}
+.navbar{
+    background: transparent !important;
+    padding-left: 20px;
+    font-family: 'Source Sans Pro Bold', sans-serif;
+}
+.nav-link{
+    padding-left: 20px !important;
+}
+.text-left{
+    padding-left: 12%; 
+    padding-right: 40%; 
+    font-size: 2vw;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.text-right{
+    padding-left: 40%; 
+    padding-right: 12%; 
+    font-size: 2vw;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.middle-text{
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-top: 3%;
+    font-size: 2vw;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.header{
+    padding-left: 12%; 
+    padding-right: 30%; 
+    padding-top: 20%;
+    font-size: 3vw;
+    font-family: 'Abril Fatface', cursive;
+}
+.header2{
+    padding-left: 40%; 
+    padding-right: 12%; 
+    padding-top: 20%;
+    font-size: 3vw;
+    font-family: 'Abril Fatface', cursive;
+}
+.header3{
+    padding: 30px;
+    font-size: 3vw;
+    position: relative;
+    font-family: 'Abril Fatface', cursive;
+}
+.home3{
+    background: url('../img/VENuBackground-3@2x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-bottom: 0px;
+}
